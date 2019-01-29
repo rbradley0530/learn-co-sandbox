@@ -1,4 +1,4 @@
 def test("1")
-  puts "test"
+  puts test
 
 end
