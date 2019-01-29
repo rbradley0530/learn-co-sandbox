@@ -1,4 +1,4 @@
 def test
-  11
+  puts "11"
 
 end
