@@ -4,4 +4,4 @@ def mtv (name = "Ryan", language = "Java")
 
 end
 
-puts mtv ("Tim","Perl")
+mtv("Tim","Perl")
